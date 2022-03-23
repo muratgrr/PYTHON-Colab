@@ -1,0 +1,2 @@
+# PYTHON-Colab
+colab çalışmalar
